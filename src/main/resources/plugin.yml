@@ -1,0 +1,10 @@
+main: AutoGolem
+name: AutoGolem
+version: 1.0
+api-version: "1.16"
+author: Bjarne Roß
+description: Autocreate iron golem using a dispenser
+commands:
+  autogolem:
+    description: Set properties of spectated dispenser
+    usage: /autogolem [count] [radius]
